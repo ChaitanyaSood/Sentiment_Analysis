@@ -31,9 +31,7 @@ The library requirements specific to some methods are:
 * `content/text.csv`: Training Dataset.
 * `content/train.csv`: Testing Dataset.
 * `content/emoticons.txt`: Emoticons Dataset.
-* `Sentiment Analysis of Text Data.ipynb`: Heart of the beast, contains all the functions, models and results from the project.
-* 
-* 
+* `Sentiment Analysis of Text Data.ipynb`: Heart of the beast, contains all the functions, models and results from the project.  
 * `plots`: consists of plots produced in project.
 * `Sentiment Analysis of Text Data.html`: Jupyter notebook in html format.
 * `result_xgb.csv`: result of the test data.
